@@ -1,0 +1,29 @@
+{
+  "name": "zote-bot",
+  "version": "1.0.0",
+  "description": "ZOTE-BOT - بوت ماسنجر خاص بمالك واحد فقط، كود مفتوح بالكامل بدون تعتيم",
+  "main": "index.js",
+  "scripts": {
+    "start": "node start.js",
+    "dev": "node index.js"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@dongdev/fca-unofficial": "^4.0.3",
+    "@google/generative-ai": "^0.21.0",
+    "axios": "^1.5.1",
+    "canvas": "^2.11.2",
+    "chalk": "^4.1.2",
+    "express": "^4.17.2",
+    "fs-extra": "^11.2.0",
+    "moment-timezone": "",
+    "mongoose": "^8.2.2"
+  },
+  "overrides": {
+    "gradient-string": "2.0.2",
+    "ora": "5.4.1"
+  }
+}

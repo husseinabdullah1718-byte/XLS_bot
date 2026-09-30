@@ -1,0 +1,14 @@
+{
+  "PREFIX": ".",
+  "ADMINBOT": ["61570903885125"],
+  "BOTNAME": "Noxe Bot",
+  "GEMINI_KEY": "Gemini_API_Optional",
+  "MONGO_URI": "mongodb+srv://ali_125:meawmeaw125@cluster0.ql0e6u3.mongodb.net/?appName=Cluster0",
+  "fcaOptions": {
+    "online": true,
+    "autoReconnect": true,
+    "forceLogin": true,
+    "listenEvents": true,
+    "selfListen": false
+  }
+}
