@@ -1,9 +1,9 @@
 {
   "PREFIX": ".",
-  "ADMINBOT": ["61570903885125"],
+  "ADMINBOT": ["add your id profile Facebook"],
   "BOTNAME": "Noxe Bot",
   "GEMINI_KEY": "Gemini_API_Optional",
-  "MONGO_URI": "mongodb+srv://ali_125:meawmeaw125@cluster0.ql0e6u3.mongodb.net/?appName=Cluster0",
+  "MONGO_URI": "",
   "fcaOptions": {
     "online": true,
     "autoReconnect": true,
