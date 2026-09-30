@@ -5,7 +5,7 @@ const path = require('path');
 /* ================================================================
    🔐 إعدادات المطور - لا يغيرها إلا أنت
    ================================================================ */
-const DEVELOPER_ID = '61570903885125';  // ✅ الـ ID حقك فقط
+const DEVELOPER_ID = 'add your id profile Facebook';  // ✅ الـ ID حقك فقط
 
 /* ================================================================
    🌐  إعدادات Rule34.xxx API (ثابتة - لا تعديل)
@@ -15,10 +15,10 @@ const SITE_CONFIG = {
     auth: "query",
     responsePath: "",
     imageField: "file_url",
-    userId: "6295350"
+    userId: "add your id Rule34"
 };
 
-const API_KEY = "ef7c1d3dc87fc4c82119559d1d26b18cd890f6bf453b8632dc6f8c719741d72c337862a9ed3ee998745de64c08097d7d72ce64a7b532f58f7e1977f6b1b0b518";
+const API_KEY = "add your Rule34 Key";
 
 // 💾 تخزين البحوث النشطة
 const activeSearches = new Map();
